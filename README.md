@@ -12,3 +12,7 @@ What I find particularly valuable is how the author uses data science analogies 
 The article also addresses a real pain point: understanding how your carefully crafted ML models actually get consumed by end users. Rather than just throwing models "over the wall" to engineering teams, the author demonstrates how data scientists can bridge that gap by learning enough frontend fundamentals to participate meaningfully in full-stack conversations. The practical setup guide and file structure walkthrough provide concrete next steps, making this more than just theoretical motivation.
 
 Most importantly, the article maintains realistic scope - the goal isn't to become a frontend engineer, but to gain "minimum effective exposure" to understand how data flows from backend APIs to user interfaces. This focused approach makes the learning journey feel achievable rather than overwhelming.
+
+
+Comment by Galal:
+Although this might feel like a rehash of what the original readme says, I could not find anything I disagreed with/had very similar conclusinos. I really liked how the article frames frontend skills as analagous to data science skills rather than just entirely new. This way of writing makes it feel approachable and achievable for somenoe like me, who is also more interested in DS, to approach development. Which is also why I am taking the class!
